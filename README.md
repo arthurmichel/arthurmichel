@@ -1,5 +1,4 @@
-![Metrics](https://metrics.lecoq.io/arthurmichel?template=classic&base.community=0&followup=1&isocalendar=1&pagespeed=1&languages=1&pagespeed.detailed=false&pagespeed.screenshot=false&isocalendar.duration=full-year&config.timezone=America%2FRecife)
-
+![Metrics](https://metrics.lecoq.io/arthurmichel?template=classic&base.community=0&base.repositories=0&pagespeed=1&languages=1&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=America%2FRecife)
 
 <!--
 **arthurmichel/arthurmichel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
