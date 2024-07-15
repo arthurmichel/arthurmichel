@@ -1,17 +1,14 @@
-![Metrics](https://metrics.lecoq.io/arthurmichel?template=terminal&base.repositories=0&languages=1&lines=1&introduction=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&introduction=false&introduction.title=true&config.timezone=America%2FRecife)
+## About me:
 
+😍 I love exploring new technologies <br/>
+🌱 I’m currently learning  **AI**, Generative AI, TypeScript, Nest.js<br/>
+🤝 I look forward to collaborating on open source projects.<br/>
 
-<!--
-**arthurmichel/arthurmichel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tech Stack
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TYPESCRIPT-black?style=flat-square&logo=typescript)
+![NodeJS](https://img.shields.io/badge/NODEJS-black?style=flat-square&logo=node.js)
 
-Here are some ideas to get you started:
+![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-black?style=flat-square&logo=postgresql)
+![Redis](https://img.shields.io/badge/REDIS-black?style=flat-square&logo=redis&logoColor=DD0031)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
