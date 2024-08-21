@@ -1,5 +1,6 @@
 ## About me:
 
+🔭 I’m currently working on Node.js
 😍 I love exploring new technologies <br/>
 🌱 I’m currently learning  **AI**, Generative AI, TypeScript, Nest.js<br/>
 🤝 I look forward to collaborating on open source projects.<br/>
